@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fotbsali/static/css/main.681adf57.css",
+    "main.js": "/fotbsali/static/js/main.10cb44a3.js",
+    "index.html": "/fotbsali/index.html",
+    "main.681adf57.css.map": "/fotbsali/static/css/main.681adf57.css.map",
+    "main.10cb44a3.js.map": "/fotbsali/static/js/main.10cb44a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.681adf57.css",
+    "static/js/main.10cb44a3.js"
+  ]
+}
