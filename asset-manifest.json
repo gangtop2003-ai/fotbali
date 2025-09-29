@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/fotbali/static/css/main.681adf57.css",
-    "main.js": "/fotbali/static/js/main.10cb44a3.js",
+    "main.css": "/fotbali/static/css/main.2daa4c88.css",
+    "main.js": "/fotbali/static/js/main.bab39f54.js",
     "index.html": "/fotbali/index.html",
-    "main.681adf57.css.map": "/fotbali/static/css/main.681adf57.css.map",
-    "main.10cb44a3.js.map": "/fotbali/static/js/main.10cb44a3.js.map"
+    "main.2daa4c88.css.map": "/fotbali/static/css/main.2daa4c88.css.map",
+    "main.bab39f54.js.map": "/fotbali/static/js/main.bab39f54.js.map"
   },
   "entrypoints": [
-    "static/css/main.681adf57.css",
-    "static/js/main.10cb44a3.js"
+    "static/css/main.2daa4c88.css",
+    "static/js/main.bab39f54.js"
   ]
 }
